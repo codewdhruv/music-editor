@@ -1,1 +1,1 @@
-# music-editor
+# Music Editor in Python
